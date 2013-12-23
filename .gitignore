@@ -1,2 +1,4 @@
 source/
 output/
+*.xcbkptlist
+*.xcuserstate
