@@ -1,6 +1,6 @@
 cd ../source
 ./autogen.sh
 cd ../scripts
-./debug_configure
+./configure_debug.sh
 cd ../source
-make clean && make && make install
+make && make install
