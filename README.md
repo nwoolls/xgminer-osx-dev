@@ -34,8 +34,12 @@ Installation
 8. Once Xcode opens (automatically), click Product > Scheme > Edit Scheme
 9. On the left click "Run bfgminer"
 10. On the right click the "Info" tab
+![Run bfgminer Info](http://www.nwoolls.com/othercontent/Run-bfgminer-Info.png "Run bfgminer Info")
 11. Next to Executable, click the drop down arrow, then Other
 12. Browse to xgminer-osx-dev/output/debug/bin and double-click bfgminer
 13. (Optional) On the right click on the "Arguments" tab and edit arguments passed to bfgminer
+![Run bfgminer Arguments](http://www.nwoolls.com/othercontent/Run-bfgminer-Arguments.png "Run bfgminer Arguments")
 
-You are now ready! You can set breakpoints and then click the Run button in Xcode.
+You are now ready! You can set breakpoints and then click the Run button in Xcode to begin debugging.
+
+![Xcode debugging bfgminer](http://www.nwoolls.com/othercontent/Xcode-debugging-bfgminer.png "Xcode debugging bfgminer")
