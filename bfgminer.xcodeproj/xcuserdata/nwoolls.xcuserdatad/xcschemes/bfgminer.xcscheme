@@ -89,15 +89,15 @@
       </MacroExpansion>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "-o 192.168.0.85:3333"
+            argument = "-o stratum+tcp://stratum.mining.eligius.st:3334"
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
             argument = "-S opencl:auto"
-            isEnabled = "NO">
+            isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = "-u doesnt"
+            argument = "-u 1LKwyLK4KhojsJUEvUx8bEmnmjohNMjRDM"
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
@@ -105,7 +105,7 @@
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = "-p matter"
+            argument = "-p X"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
