@@ -7,70 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		D290598E185E27E0001E1788 /* api-example.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "api-example.Po"; sourceTree = "<group>"; };
-		D290598F185E27E0001E1788 /* bfgminer-adl.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-adl.Po"; sourceTree = "<group>"; };
-		D2905990185E27E0001E1788 /* bfgminer-api.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-api.Po"; sourceTree = "<group>"; };
-		D2905991185E27E0001E1788 /* bfgminer-binloader.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-binloader.Po"; sourceTree = "<group>"; };
-		D2905992185E27E0001E1788 /* bfgminer-deviceapi.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-deviceapi.Po"; sourceTree = "<group>"; };
-		D2905993185E27E0001E1788 /* bfgminer-driver-avalon.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-avalon.Po"; sourceTree = "<group>"; };
-		D2905994185E27E0001E1788 /* bfgminer-driver-bfsb.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-bfsb.Po"; sourceTree = "<group>"; };
-		D2905995185E27E0001E1788 /* bfgminer-driver-bifury.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-bifury.Po"; sourceTree = "<group>"; };
-		D2905996185E27E0001E1788 /* bfgminer-driver-bigpic.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-bigpic.Po"; sourceTree = "<group>"; };
-		D2905997185E27E0001E1788 /* bfgminer-driver-bitforce.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-bitforce.Po"; sourceTree = "<group>"; };
-		D2905998185E27E0001E1788 /* bfgminer-driver-bitfury.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-bitfury.Po"; sourceTree = "<group>"; };
-		D2905999185E27E0001E1788 /* bfgminer-driver-cairnsmore.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-cairnsmore.Po"; sourceTree = "<group>"; };
-		D290599A185E27E0001E1788 /* bfgminer-driver-cpu.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-cpu.Po"; sourceTree = "<group>"; };
-		D290599B185E27E0001E1788 /* bfgminer-driver-erupter.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-erupter.Po"; sourceTree = "<group>"; };
-		D290599C185E27E0001E1788 /* bfgminer-driver-getwork.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-getwork.Po"; sourceTree = "<group>"; };
-		D290599D185E27E0001E1788 /* bfgminer-driver-hashbuster.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-hashbuster.Po"; sourceTree = "<group>"; };
-		D290599E185E27E0001E1788 /* bfgminer-driver-hashbuster2.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-hashbuster2.Po"; sourceTree = "<group>"; };
-		D290599F185E27E0001E1788 /* bfgminer-driver-hashbusterusb.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-hashbusterusb.Po"; sourceTree = "<group>"; };
-		D29059A0185E27E0001E1788 /* bfgminer-driver-icarus.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-icarus.Po"; sourceTree = "<group>"; };
-		D29059A1185E27E0001E1788 /* bfgminer-driver-klondike.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-klondike.Po"; sourceTree = "<group>"; };
-		D29059A2185E27E0001E1788 /* bfgminer-driver-knc.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-knc.Po"; sourceTree = "<group>"; };
-		D29059A3185E27E0001E1788 /* bfgminer-driver-littlefury.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-littlefury.Po"; sourceTree = "<group>"; };
-		D29059A4185E27E0001E1788 /* bfgminer-driver-metabank.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-metabank.Po"; sourceTree = "<group>"; };
-		D29059A5185E27E0001E1788 /* bfgminer-driver-modminer.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-modminer.Po"; sourceTree = "<group>"; };
-		D29059A6185E27E0001E1788 /* bfgminer-driver-nanofury.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-nanofury.Po"; sourceTree = "<group>"; };
-		D29059A7185E27E0001E1788 /* bfgminer-driver-opencl.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-opencl.Po"; sourceTree = "<group>"; };
-		D29059A8185E27E0001E1788 /* bfgminer-driver-proxy.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-proxy.Po"; sourceTree = "<group>"; };
-		D29059A9185E27E0001E1788 /* bfgminer-driver-stratum.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-stratum.Po"; sourceTree = "<group>"; };
-		D29059AA185E27E0001E1788 /* bfgminer-driver-twinfury.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-twinfury.Po"; sourceTree = "<group>"; };
-		D29059AB185E27E0001E1788 /* bfgminer-driver-x6500.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-x6500.Po"; sourceTree = "<group>"; };
-		D29059AC185E27E0001E1788 /* bfgminer-driver-ztex.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-driver-ztex.Po"; sourceTree = "<group>"; };
-		D29059AD185E27E0001E1788 /* bfgminer-dynclock.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-dynclock.Po"; sourceTree = "<group>"; };
-		D29059AE185E27E0001E1788 /* bfgminer-findnonce.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-findnonce.Po"; sourceTree = "<group>"; };
-		D29059AF185E27E0001E1788 /* bfgminer-ft232r.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-ft232r.Po"; sourceTree = "<group>"; };
-		D29059B0185E27E0001E1788 /* bfgminer-hexdump.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-hexdump.Po"; sourceTree = "<group>"; };
-		D29059B1185E27E0001E1788 /* bfgminer-httpsrv.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-httpsrv.Po"; sourceTree = "<group>"; };
-		D29059B2185E27E0001E1788 /* bfgminer-jtag.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-jtag.Po"; sourceTree = "<group>"; };
-		D29059B3185E27E0001E1788 /* bfgminer-libbitfury.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-libbitfury.Po"; sourceTree = "<group>"; };
-		D29059B4185E27E0001E1788 /* bfgminer-libztex.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-libztex.Po"; sourceTree = "<group>"; };
-		D29059B5185E27E0001E1788 /* bfgminer-logging.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-logging.Po"; sourceTree = "<group>"; };
-		D29059B6185E27E0001E1788 /* bfgminer-lowl-hid.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-lowl-hid.Po"; sourceTree = "<group>"; };
-		D29059B7185E27E0001E1788 /* bfgminer-lowl-usb.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-lowl-usb.Po"; sourceTree = "<group>"; };
-		D29059B8185E27E0001E1788 /* bfgminer-lowl-vcom.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-lowl-vcom.Po"; sourceTree = "<group>"; };
-		D29059B9185E27E0001E1788 /* bfgminer-lowlevel.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-lowlevel.Po"; sourceTree = "<group>"; };
-		D29059BA185E27E0001E1788 /* bfgminer-mcp2210.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-mcp2210.Po"; sourceTree = "<group>"; };
-		D29059BB185E27E0001E1788 /* bfgminer-miner.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-miner.Po"; sourceTree = "<group>"; };
-		D29059BC185E27E0001E1788 /* bfgminer-ocl.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-ocl.Po"; sourceTree = "<group>"; };
-		D29059BD185E27E0001E1788 /* bfgminer-scrypt.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-scrypt.Po"; sourceTree = "<group>"; };
-		D29059BE185E27E0001E1788 /* bfgminer-sha2.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-sha2.Po"; sourceTree = "<group>"; };
-		D29059BF185E27E0001E1788 /* bfgminer-sha256_altivec_4way.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-sha256_altivec_4way.Po"; sourceTree = "<group>"; };
-		D29059C0185E27E0001E1788 /* bfgminer-sha256_cryptopp.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-sha256_cryptopp.Po"; sourceTree = "<group>"; };
-		D29059C1185E27E0001E1788 /* bfgminer-sha256_generic.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-sha256_generic.Po"; sourceTree = "<group>"; };
-		D29059C2185E27E0001E1788 /* bfgminer-sha256_sse2_amd64.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-sha256_sse2_amd64.Po"; sourceTree = "<group>"; };
-		D29059C3185E27E0001E1788 /* bfgminer-sha256_sse4_amd64.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-sha256_sse4_amd64.Po"; sourceTree = "<group>"; };
-		D29059C4185E27E0001E1788 /* bfgminer-sha256_via.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-sha256_via.Po"; sourceTree = "<group>"; };
-		D29059C5185E27E0001E1788 /* bfgminer-spidevc.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-spidevc.Po"; sourceTree = "<group>"; };
-		D29059C6185E27E0001E1788 /* bfgminer-tm_i2c.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-tm_i2c.Po"; sourceTree = "<group>"; };
-		D29059C7185E27E0001E1788 /* bfgminer-util.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bfgminer-util.Po"; sourceTree = "<group>"; };
-		D29059C8185E27E0001E1788 /* bitforce-firmware-flash.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bitforce-firmware-flash.Po"; sourceTree = "<group>"; };
-		D29059C9185E27E0001E1788 /* libsse2cpuminer_a-sha256_4way.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "libsse2cpuminer_a-sha256_4way.Po"; sourceTree = "<group>"; };
-		D29059CA185E27E0001E1788 /* libsse2cpuminer_a-sha256_sse2_i386.Po */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "libsse2cpuminer_a-sha256_sse2_i386.Po"; sourceTree = "<group>"; };
 		D29059CB185E27E0001E1788 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		D29059CC185E27E0001E1788 /* .gitmodules */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitmodules; sourceTree = "<group>"; };
-		D29059CD185E27E0001E1788 /* aclocal.m4 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = aclocal.m4; sourceTree = "<group>"; };
 		D29059CF185E27E1001E1788 /* adl_defines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = adl_defines.h; sourceTree = "<group>"; };
 		D29059D0185E27E1001E1788 /* adl_sdk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = adl_sdk.h; sourceTree = "<group>"; };
 		D29059D1185E27E1001E1788 /* adl_structures.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = adl_structures.h; sourceTree = "<group>"; };
@@ -78,7 +16,6 @@
 		D29059D3185E27E1001E1788 /* adl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = adl.h; sourceTree = "<group>"; };
 		D29059D4185E27E1001E1788 /* adl_functions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = adl_functions.h; sourceTree = "<group>"; };
 		D29059D5185E27E1001E1788 /* api-example.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "api-example.c"; sourceTree = "<group>"; };
-		D29059D6185E27E1001E1788 /* api-example.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "api-example.o"; sourceTree = "<group>"; };
 		D29059D7185E27E1001E1788 /* api-example.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = "api-example.php"; sourceTree = "<group>"; };
 		D29059D8185E27E1001E1788 /* api-example.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = "api-example.py"; sourceTree = "<group>"; };
 		D29059D9185E27E1001E1788 /* api.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = api.c; sourceTree = "<group>"; };
@@ -92,54 +29,9 @@
 		D29059E2185E27E1001E1788 /* traces.1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.man; path = traces.1; sourceTree = "<group>"; };
 		D29059E3185E27E1001E1788 /* avalonhost-raminst */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "avalonhost-raminst"; sourceTree = "<group>"; };
 		D29059E4185E27E1001E1788 /* bench_block.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bench_block.h; sourceTree = "<group>"; };
-		D29059E5185E27E1001E1788 /* bfgminer */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = bfgminer; sourceTree = "<group>"; };
-		D29059E6185E27E1001E1788 /* bfgminer-adl.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-adl.o"; sourceTree = "<group>"; };
-		D29059E7185E27E1001E1788 /* bfgminer-api.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-api.o"; sourceTree = "<group>"; };
-		D29059E8185E27E1001E1788 /* bfgminer-binloader.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-binloader.o"; sourceTree = "<group>"; };
-		D29059E9185E27E1001E1788 /* bfgminer-deviceapi.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-deviceapi.o"; sourceTree = "<group>"; };
-		D29059EA185E27E1001E1788 /* bfgminer-driver-avalon.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-avalon.o"; sourceTree = "<group>"; };
-		D29059EB185E27E1001E1788 /* bfgminer-driver-bifury.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-bifury.o"; sourceTree = "<group>"; };
-		D29059EC185E27E1001E1788 /* bfgminer-driver-bigpic.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-bigpic.o"; sourceTree = "<group>"; };
-		D29059ED185E27E1001E1788 /* bfgminer-driver-bitforce.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-bitforce.o"; sourceTree = "<group>"; };
-		D29059EE185E27E1001E1788 /* bfgminer-driver-bitfury.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-bitfury.o"; sourceTree = "<group>"; };
-		D29059EF185E27E1001E1788 /* bfgminer-driver-cairnsmore.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-cairnsmore.o"; sourceTree = "<group>"; };
-		D29059F0185E27E1001E1788 /* bfgminer-driver-erupter.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-erupter.o"; sourceTree = "<group>"; };
-		D29059F1185E27E1001E1788 /* bfgminer-driver-getwork.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-getwork.o"; sourceTree = "<group>"; };
-		D29059F2185E27E1001E1788 /* bfgminer-driver-hashbusterusb.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-hashbusterusb.o"; sourceTree = "<group>"; };
-		D29059F3185E27E1001E1788 /* bfgminer-driver-icarus.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-icarus.o"; sourceTree = "<group>"; };
-		D29059F4185E27E1001E1788 /* bfgminer-driver-klondike.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-klondike.o"; sourceTree = "<group>"; };
-		D29059F5185E27E1001E1788 /* bfgminer-driver-littlefury.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-littlefury.o"; sourceTree = "<group>"; };
-		D29059F6185E27E1001E1788 /* bfgminer-driver-modminer.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-modminer.o"; sourceTree = "<group>"; };
-		D29059F7185E27E1001E1788 /* bfgminer-driver-opencl.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-opencl.o"; sourceTree = "<group>"; };
-		D29059F8185E27E1001E1788 /* bfgminer-driver-proxy.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-proxy.o"; sourceTree = "<group>"; };
-		D29059F9185E27E1001E1788 /* bfgminer-driver-stratum.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-stratum.o"; sourceTree = "<group>"; };
-		D29059FA185E27E1001E1788 /* bfgminer-driver-twinfury.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-twinfury.o"; sourceTree = "<group>"; };
-		D29059FB185E27E1001E1788 /* bfgminer-driver-x6500.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-x6500.o"; sourceTree = "<group>"; };
-		D29059FC185E27E1001E1788 /* bfgminer-driver-ztex.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-driver-ztex.o"; sourceTree = "<group>"; };
-		D29059FD185E27E1001E1788 /* bfgminer-dynclock.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-dynclock.o"; sourceTree = "<group>"; };
-		D29059FE185E27E1001E1788 /* bfgminer-findnonce.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-findnonce.o"; sourceTree = "<group>"; };
-		D29059FF185E27E1001E1788 /* bfgminer-ft232r.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-ft232r.o"; sourceTree = "<group>"; };
-		D2905A00185E27E1001E1788 /* bfgminer-hexdump.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-hexdump.o"; sourceTree = "<group>"; };
-		D2905A01185E27E1001E1788 /* bfgminer-httpsrv.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-httpsrv.o"; sourceTree = "<group>"; };
-		D2905A02185E27E1001E1788 /* bfgminer-jtag.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-jtag.o"; sourceTree = "<group>"; };
-		D2905A03185E27E1001E1788 /* bfgminer-libbitfury.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-libbitfury.o"; sourceTree = "<group>"; };
-		D2905A04185E27E1001E1788 /* bfgminer-libztex.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-libztex.o"; sourceTree = "<group>"; };
-		D2905A05185E27E1001E1788 /* bfgminer-logging.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-logging.o"; sourceTree = "<group>"; };
-		D2905A06185E27E1001E1788 /* bfgminer-lowl-usb.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-lowl-usb.o"; sourceTree = "<group>"; };
-		D2905A07185E27E1001E1788 /* bfgminer-lowl-vcom.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-lowl-vcom.o"; sourceTree = "<group>"; };
-		D2905A08185E27E1001E1788 /* bfgminer-lowlevel.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-lowlevel.o"; sourceTree = "<group>"; };
-		D2905A09185E27E1001E1788 /* bfgminer-miner.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-miner.o"; sourceTree = "<group>"; };
-		D2905A0A185E27E1001E1788 /* bfgminer-ocl.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-ocl.o"; sourceTree = "<group>"; };
-		D2905A0B185E27E1001E1788 /* bfgminer-rpc */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "bfgminer-rpc"; sourceTree = "<group>"; };
-		D2905A0C185E27E1001E1788 /* bfgminer-scrypt.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-scrypt.o"; sourceTree = "<group>"; };
-		D2905A0D185E27E1001E1788 /* bfgminer-sha2.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-sha2.o"; sourceTree = "<group>"; };
-		D2905A0E185E27E1001E1788 /* bfgminer-spidevc.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-spidevc.o"; sourceTree = "<group>"; };
-		D2905A0F185E27E1001E1788 /* bfgminer-util.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bfgminer-util.o"; sourceTree = "<group>"; };
 		D2905A10185E27E1001E1788 /* binloader.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = binloader.c; sourceTree = "<group>"; };
 		D2905A11185E27E1001E1788 /* binloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = binloader.h; sourceTree = "<group>"; };
-		D2905A12185E27E1001E1788 /* bitforce-firmware-flash */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "bitforce-firmware-flash"; sourceTree = "<group>"; };
 		D2905A13185E27E1001E1788 /* bitforce-firmware-flash.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "bitforce-firmware-flash.c"; sourceTree = "<group>"; };
-		D2905A14185E27E1001E1788 /* bitforce-firmware-flash.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = "bitforce-firmware-flash.o"; sourceTree = "<group>"; };
 		D2905A16185E27E1001E1788 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		D2905A17185E27E1001E1788 /* c++defs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "c++defs.h"; sourceTree = "<group>"; };
 		D2905A1A185E27E1001E1788 /* _info */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _info; sourceTree = "<group>"; };
@@ -202,10 +94,7 @@
 		D2905A5A185E27E1001E1788 /* config.guess */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = config.guess; sourceTree = "<group>"; };
 		D2905A5B185E27E1001E1788 /* config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
 		D2905A5C185E27E1001E1788 /* config.h.in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = config.h.in; sourceTree = "<group>"; };
-		D2905A5D185E27E1001E1788 /* config.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = config.log; sourceTree = "<group>"; };
-		D2905A5E185E27E1001E1788 /* config.status */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = config.status; sourceTree = "<group>"; };
 		D2905A5F185E27E1001E1788 /* config.sub */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = config.sub; sourceTree = "<group>"; };
-		D2905A60185E27E1001E1788 /* configure */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = configure; sourceTree = "<group>"; };
 		D2905A61185E27E1001E1788 /* configure.ac */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = configure.ac; sourceTree = "<group>"; };
 		D2905A62185E27E1001E1788 /* COPYING */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = COPYING; sourceTree = "<group>"; };
 		D2905A64185E27E1001E1788 /* bfgminer.docs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bfgminer.docs; sourceTree = "<group>"; };
@@ -218,41 +107,6 @@
 		D2905A6C185E27E1001E1788 /* series */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = series; sourceTree = "<group>"; };
 		D2905A6D185E27E1001E1788 /* rules */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rules; sourceTree = "<group>"; };
 		D2905A6F185E27E1001E1788 /* format */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = format; sourceTree = "<group>"; };
-		D2905A72185E27E1001E1788 /* bfgminer */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = bfgminer; sourceTree = "<group>"; };
-		D2905A73185E27E1001E1788 /* bfgminer-rpc */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "bfgminer-rpc"; sourceTree = "<group>"; };
-		D2905A74185E27E1001E1788 /* bitforce-firmware-flash */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "bitforce-firmware-flash"; sourceTree = "<group>"; };
-		D2905A77185E27E1001E1788 /* blkmaker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = blkmaker.h; sourceTree = "<group>"; };
-		D2905A78185E27E1001E1788 /* blkmaker_jansson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = blkmaker_jansson.h; sourceTree = "<group>"; };
-		D2905A79185E27E1001E1788 /* blktemplate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = blktemplate.h; sourceTree = "<group>"; };
-		D2905A7B185E27E1001E1788 /* libblkmaker-0.1.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = "libblkmaker-0.1.0.dylib"; sourceTree = "<group>"; };
-		D2905A7C185E27E1001E1788 /* libblkmaker-0.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = "libblkmaker-0.1.dylib"; sourceTree = "<group>"; };
-		D2905A7D185E27E1001E1788 /* libblkmaker-0.1.la */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "libblkmaker-0.1.la"; sourceTree = "<group>"; };
-		D2905A7E185E27E1001E1788 /* libblkmaker_jansson-0.1.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = "libblkmaker_jansson-0.1.0.dylib"; sourceTree = "<group>"; };
-		D2905A7F185E27E1001E1788 /* libblkmaker_jansson-0.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = "libblkmaker_jansson-0.1.dylib"; sourceTree = "<group>"; };
-		D2905A80185E27E1001E1788 /* libblkmaker_jansson-0.1.la */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "libblkmaker_jansson-0.1.la"; sourceTree = "<group>"; };
-		D2905A82185E27E1001E1788 /* libblkmaker_jansson-0.1.pc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "libblkmaker_jansson-0.1.pc"; sourceTree = "<group>"; };
-		D2905A86185E27E1001E1788 /* diablo130302.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = diablo130302.cl; sourceTree = "<group>"; };
-		D2905A87185E27E1001E1788 /* diakgcn121016.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = diakgcn121016.cl; sourceTree = "<group>"; };
-		D2905A88185E27E1001E1788 /* phatk121016.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = phatk121016.cl; sourceTree = "<group>"; };
-		D2905A89185E27E1001E1788 /* poclbm130302.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = poclbm130302.cl; sourceTree = "<group>"; };
-		D2905A8A185E27E1001E1788 /* scrypt130511.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = scrypt130511.cl; sourceTree = "<group>"; };
-		D2905A8D185E27E1001E1788 /* AUTHORS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AUTHORS; sourceTree = "<group>"; };
-		D2905A8E185E27E1001E1788 /* COPYING */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = COPYING; sourceTree = "<group>"; };
-		D2905A8F185E27E1001E1788 /* example.conf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = example.conf; sourceTree = "<group>"; };
-		D2905A90185E27E1001E1788 /* HACKING */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HACKING; sourceTree = "<group>"; };
-		D2905A91185E27E1001E1788 /* NEWS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NEWS; sourceTree = "<group>"; };
-		D2905A92185E27E1001E1788 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
-		D2905A93185E27E1001E1788 /* README.ASIC */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.ASIC; sourceTree = "<group>"; };
-		D2905A94185E27E1001E1788 /* README.FPGA */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.FPGA; sourceTree = "<group>"; };
-		D2905A95185E27E1001E1788 /* README.GPU */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.GPU; sourceTree = "<group>"; };
-		D2905A96185E27E1001E1788 /* README.RPC */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.RPC; sourceTree = "<group>"; };
-		D2905A97185E27E1001E1788 /* README.scrypt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.scrypt; sourceTree = "<group>"; };
-		D2905A99185E27E1001E1788 /* api-example.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "api-example.c"; sourceTree = "<group>"; };
-		D2905A9A185E27E1001E1788 /* api-example.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = "api-example.php"; sourceTree = "<group>"; };
-		D2905A9B185E27E1001E1788 /* api-example.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = "api-example.py"; sourceTree = "<group>"; };
-		D2905A9C185E27E1001E1788 /* miner.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = miner.php; sourceTree = "<group>"; };
-		D2905A9D185E27E1001E1788 /* debug_configure */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = debug_configure; sourceTree = "<group>"; };
-		D2905A9E185E27E1001E1788 /* debug_make */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = debug_make; sourceTree = "<group>"; };
 		D2905A9F185E27E1001E1788 /* depcomp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = depcomp; sourceTree = "<group>"; };
 		D2905AA0185E27E1001E1788 /* deviceapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = deviceapi.c; sourceTree = "<group>"; };
 		D2905AA1185E27E1001E1788 /* deviceapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = deviceapi.h; sourceTree = "<group>"; };
@@ -281,7 +135,7 @@
 		D2905AB8185E27E1001E1788 /* driver-metabank.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "driver-metabank.c"; sourceTree = "<group>"; };
 		D2905AB9185E27E1001E1788 /* driver-modminer.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "driver-modminer.c"; sourceTree = "<group>"; };
 		D2905ABA185E27E1001E1788 /* driver-nanofury.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "driver-nanofury.c"; sourceTree = "<group>"; };
-		D2905ABB185E27E1001E1788 /* driver-opencl.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "driver-opencl.c"; sourceTree = "<group>"; };
+		D2905ABB185E27E1001E1788 /* driver-opencl.c */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = sourcecode.c.c; path = "driver-opencl.c"; sourceTree = "<group>"; };
 		D2905ABC185E27E1001E1788 /* driver-opencl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "driver-opencl.h"; sourceTree = "<group>"; };
 		D2905ABD185E27E1001E1788 /* driver-proxy.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "driver-proxy.c"; sourceTree = "<group>"; };
 		D2905ABE185E27E1001E1788 /* driver-proxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "driver-proxy.h"; sourceTree = "<group>"; };
@@ -461,39 +315,6 @@
 		D2905B74185E27E2001E1788 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		D2905B76185E27E2001E1788 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		D2905B77185E27E2001E1788 /* multibuild.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = multibuild.sh; sourceTree = "<group>"; };
-		D2905B7B185E27E2001E1788 /* bfgminer */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = bfgminer; sourceTree = "<group>"; };
-		D2905B7C185E27E2001E1788 /* bfgminer-rpc */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "bfgminer-rpc"; sourceTree = "<group>"; };
-		D2905B7D185E27E2001E1788 /* bitforce-firmware-flash */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "bitforce-firmware-flash"; sourceTree = "<group>"; };
-		D2905B80185E27E2001E1788 /* blkmaker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = blkmaker.h; sourceTree = "<group>"; };
-		D2905B81185E27E2001E1788 /* blkmaker_jansson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = blkmaker_jansson.h; sourceTree = "<group>"; };
-		D2905B82185E27E2001E1788 /* blktemplate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = blktemplate.h; sourceTree = "<group>"; };
-		D2905B84185E27E2001E1788 /* libblkmaker-0.1.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = "libblkmaker-0.1.0.dylib"; sourceTree = "<group>"; };
-		D2905B85185E27E2001E1788 /* libblkmaker-0.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = "libblkmaker-0.1.dylib"; sourceTree = "<group>"; };
-		D2905B86185E27E2001E1788 /* libblkmaker-0.1.la */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "libblkmaker-0.1.la"; sourceTree = "<group>"; };
-		D2905B87185E27E2001E1788 /* libblkmaker_jansson-0.1.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = "libblkmaker_jansson-0.1.0.dylib"; sourceTree = "<group>"; };
-		D2905B88185E27E2001E1788 /* libblkmaker_jansson-0.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = "libblkmaker_jansson-0.1.dylib"; sourceTree = "<group>"; };
-		D2905B89185E27E2001E1788 /* libblkmaker_jansson-0.1.la */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "libblkmaker_jansson-0.1.la"; sourceTree = "<group>"; };
-		D2905B8B185E27E2001E1788 /* libblkmaker_jansson-0.1.pc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "libblkmaker_jansson-0.1.pc"; sourceTree = "<group>"; };
-		D2905B8F185E27E2001E1788 /* diablo130302.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = diablo130302.cl; sourceTree = "<group>"; };
-		D2905B90185E27E2001E1788 /* diakgcn121016.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = diakgcn121016.cl; sourceTree = "<group>"; };
-		D2905B91185E27E2001E1788 /* phatk121016.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = phatk121016.cl; sourceTree = "<group>"; };
-		D2905B92185E27E2001E1788 /* poclbm130302.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = poclbm130302.cl; sourceTree = "<group>"; };
-		D2905B93185E27E2001E1788 /* scrypt130511.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = scrypt130511.cl; sourceTree = "<group>"; };
-		D2905B96185E27E2001E1788 /* AUTHORS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AUTHORS; sourceTree = "<group>"; };
-		D2905B97185E27E2001E1788 /* COPYING */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = COPYING; sourceTree = "<group>"; };
-		D2905B98185E27E2001E1788 /* example.conf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = example.conf; sourceTree = "<group>"; };
-		D2905B99185E27E2001E1788 /* HACKING */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HACKING; sourceTree = "<group>"; };
-		D2905B9A185E27E2001E1788 /* NEWS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NEWS; sourceTree = "<group>"; };
-		D2905B9B185E27E2001E1788 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
-		D2905B9C185E27E2001E1788 /* README.ASIC */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.ASIC; sourceTree = "<group>"; };
-		D2905B9D185E27E2001E1788 /* README.FPGA */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.FPGA; sourceTree = "<group>"; };
-		D2905B9E185E27E2001E1788 /* README.GPU */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.GPU; sourceTree = "<group>"; };
-		D2905B9F185E27E2001E1788 /* README.RPC */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.RPC; sourceTree = "<group>"; };
-		D2905BA0185E27E2001E1788 /* README.scrypt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.scrypt; sourceTree = "<group>"; };
-		D2905BA2185E27E2001E1788 /* api-example.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "api-example.c"; sourceTree = "<group>"; };
-		D2905BA3185E27E2001E1788 /* api-example.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = "api-example.php"; sourceTree = "<group>"; };
-		D2905BA4185E27E2001E1788 /* api-example.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = "api-example.py"; sourceTree = "<group>"; };
-		D2905BA5185E27E2001E1788 /* miner.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = miner.php; sourceTree = "<group>"; };
 		D2905BA8185E27E2001E1788 /* bfgminer.changes */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bfgminer.changes; sourceTree = "<group>"; };
 		D2905BA9185E27E2001E1788 /* bfgminer.rpmlintrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bfgminer.rpmlintrc; sourceTree = "<group>"; };
 		D2905BAA185E27E2001E1788 /* bfgminer.spec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = bfgminer.spec; sourceTree = "<group>"; };
@@ -510,7 +331,6 @@
 		D2905BB5185E27E2001E1788 /* README.OpenWrt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.OpenWrt; sourceTree = "<group>"; };
 		D2905BB6185E27E3001E1788 /* README.RPC */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.RPC; sourceTree = "<group>"; };
 		D2905BB7185E27E3001E1788 /* README.scrypt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.scrypt; sourceTree = "<group>"; };
-		D2905BB8185E27E3001E1788 /* release_configure */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = release_configure; sourceTree = "<group>"; };
 		D2905BB9185E27E3001E1788 /* scrypt.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = scrypt.c; sourceTree = "<group>"; };
 		D2905BBA185E27E3001E1788 /* scrypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = scrypt.h; sourceTree = "<group>"; };
 		D2905BBB185E27E3001E1788 /* scrypt130511.cl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.opencl; path = scrypt130511.cl; sourceTree = "<group>"; };
@@ -552,16 +372,13 @@
 		D290598C185E27E0001E1788 /* bfgminer */ = {
 			isa = PBXGroup;
 			children = (
-				D290598D185E27E0001E1788 /* .deps */,
 				D29059CB185E27E0001E1788 /* .gitignore */,
 				D29059CC185E27E0001E1788 /* .gitmodules */,
-				D29059CD185E27E0001E1788 /* aclocal.m4 */,
 				D29059CE185E27E0001E1788 /* ADL */,
 				D29059D2185E27E1001E1788 /* adl.c */,
 				D29059D3185E27E1001E1788 /* adl.h */,
 				D29059D4185E27E1001E1788 /* adl_functions.h */,
 				D29059D5185E27E1001E1788 /* api-example.c */,
-				D29059D6185E27E1001E1788 /* api-example.o */,
 				D29059D7185E27E1001E1788 /* api-example.php */,
 				D29059D8185E27E1001E1788 /* api-example.py */,
 				D29059D9185E27E1001E1788 /* api.c */,
@@ -571,54 +388,9 @@
 				D29059DD185E27E1001E1788 /* autom4te.cache */,
 				D29059E3185E27E1001E1788 /* avalonhost-raminst */,
 				D29059E4185E27E1001E1788 /* bench_block.h */,
-				D29059E5185E27E1001E1788 /* bfgminer */,
-				D29059E6185E27E1001E1788 /* bfgminer-adl.o */,
-				D29059E7185E27E1001E1788 /* bfgminer-api.o */,
-				D29059E8185E27E1001E1788 /* bfgminer-binloader.o */,
-				D29059E9185E27E1001E1788 /* bfgminer-deviceapi.o */,
-				D29059EA185E27E1001E1788 /* bfgminer-driver-avalon.o */,
-				D29059EB185E27E1001E1788 /* bfgminer-driver-bifury.o */,
-				D29059EC185E27E1001E1788 /* bfgminer-driver-bigpic.o */,
-				D29059ED185E27E1001E1788 /* bfgminer-driver-bitforce.o */,
-				D29059EE185E27E1001E1788 /* bfgminer-driver-bitfury.o */,
-				D29059EF185E27E1001E1788 /* bfgminer-driver-cairnsmore.o */,
-				D29059F0185E27E1001E1788 /* bfgminer-driver-erupter.o */,
-				D29059F1185E27E1001E1788 /* bfgminer-driver-getwork.o */,
-				D29059F2185E27E1001E1788 /* bfgminer-driver-hashbusterusb.o */,
-				D29059F3185E27E1001E1788 /* bfgminer-driver-icarus.o */,
-				D29059F4185E27E1001E1788 /* bfgminer-driver-klondike.o */,
-				D29059F5185E27E1001E1788 /* bfgminer-driver-littlefury.o */,
-				D29059F6185E27E1001E1788 /* bfgminer-driver-modminer.o */,
-				D29059F7185E27E1001E1788 /* bfgminer-driver-opencl.o */,
-				D29059F8185E27E1001E1788 /* bfgminer-driver-proxy.o */,
-				D29059F9185E27E1001E1788 /* bfgminer-driver-stratum.o */,
-				D29059FA185E27E1001E1788 /* bfgminer-driver-twinfury.o */,
-				D29059FB185E27E1001E1788 /* bfgminer-driver-x6500.o */,
-				D29059FC185E27E1001E1788 /* bfgminer-driver-ztex.o */,
-				D29059FD185E27E1001E1788 /* bfgminer-dynclock.o */,
-				D29059FE185E27E1001E1788 /* bfgminer-findnonce.o */,
-				D29059FF185E27E1001E1788 /* bfgminer-ft232r.o */,
-				D2905A00185E27E1001E1788 /* bfgminer-hexdump.o */,
-				D2905A01185E27E1001E1788 /* bfgminer-httpsrv.o */,
-				D2905A02185E27E1001E1788 /* bfgminer-jtag.o */,
-				D2905A03185E27E1001E1788 /* bfgminer-libbitfury.o */,
-				D2905A04185E27E1001E1788 /* bfgminer-libztex.o */,
-				D2905A05185E27E1001E1788 /* bfgminer-logging.o */,
-				D2905A06185E27E1001E1788 /* bfgminer-lowl-usb.o */,
-				D2905A07185E27E1001E1788 /* bfgminer-lowl-vcom.o */,
-				D2905A08185E27E1001E1788 /* bfgminer-lowlevel.o */,
-				D2905A09185E27E1001E1788 /* bfgminer-miner.o */,
-				D2905A0A185E27E1001E1788 /* bfgminer-ocl.o */,
-				D2905A0B185E27E1001E1788 /* bfgminer-rpc */,
-				D2905A0C185E27E1001E1788 /* bfgminer-scrypt.o */,
-				D2905A0D185E27E1001E1788 /* bfgminer-sha2.o */,
-				D2905A0E185E27E1001E1788 /* bfgminer-spidevc.o */,
-				D2905A0F185E27E1001E1788 /* bfgminer-util.o */,
 				D2905A10185E27E1001E1788 /* binloader.c */,
 				D2905A11185E27E1001E1788 /* binloader.h */,
-				D2905A12185E27E1001E1788 /* bitforce-firmware-flash */,
 				D2905A13185E27E1001E1788 /* bitforce-firmware-flash.c */,
-				D2905A14185E27E1001E1788 /* bitforce-firmware-flash.o */,
 				D2905A15185E27E1001E1788 /* bitstreams */,
 				D2905A17185E27E1001E1788 /* c++defs.h */,
 				D2905A18185E27E1001E1788 /* ccan */,
@@ -629,16 +401,10 @@
 				D2905A5A185E27E1001E1788 /* config.guess */,
 				D2905A5B185E27E1001E1788 /* config.h */,
 				D2905A5C185E27E1001E1788 /* config.h.in */,
-				D2905A5D185E27E1001E1788 /* config.log */,
-				D2905A5E185E27E1001E1788 /* config.status */,
 				D2905A5F185E27E1001E1788 /* config.sub */,
-				D2905A60185E27E1001E1788 /* configure */,
 				D2905A61185E27E1001E1788 /* configure.ac */,
 				D2905A62185E27E1001E1788 /* COPYING */,
 				D2905A63185E27E1001E1788 /* debian */,
-				D2905A70185E27E1001E1788 /* debug */,
-				D2905A9D185E27E1001E1788 /* debug_configure */,
-				D2905A9E185E27E1001E1788 /* debug_make */,
 				D2905A9F185E27E1001E1788 /* depcomp */,
 				D2905AA0185E27E1001E1788 /* deviceapi.c */,
 				D2905AA1185E27E1001E1788 /* deviceapi.h */,
@@ -727,7 +493,6 @@
 				D2905B71185E27E2001E1788 /* ocl.c */,
 				D2905B72185E27E2001E1788 /* ocl.h */,
 				D2905B73185E27E2001E1788 /* openwrt */,
-				D2905B78185E27E2001E1788 /* output */,
 				D2905BA6185E27E2001E1788 /* packaging */,
 				D2905BAD185E27E2001E1788 /* phatk121016.cl */,
 				D2905BAE185E27E2001E1788 /* poclbm130302.cl */,
@@ -740,7 +505,6 @@
 				D2905BB5185E27E2001E1788 /* README.OpenWrt */,
 				D2905BB6185E27E3001E1788 /* README.RPC */,
 				D2905BB7185E27E3001E1788 /* README.scrypt */,
-				D2905BB8185E27E3001E1788 /* release_configure */,
 				D2905BB9185E27E3001E1788 /* scrypt.c */,
 				D2905BBA185E27E3001E1788 /* scrypt.h */,
 				D2905BBB185E27E3001E1788 /* scrypt130511.cl */,
@@ -770,74 +534,6 @@
 			);
 			name = bfgminer;
 			path = "../../GNU-Projects/bfgminer/source";
-			sourceTree = "<group>";
-		};
-		D290598D185E27E0001E1788 /* .deps */ = {
-			isa = PBXGroup;
-			children = (
-				D290598E185E27E0001E1788 /* api-example.Po */,
-				D290598F185E27E0001E1788 /* bfgminer-adl.Po */,
-				D2905990185E27E0001E1788 /* bfgminer-api.Po */,
-				D2905991185E27E0001E1788 /* bfgminer-binloader.Po */,
-				D2905992185E27E0001E1788 /* bfgminer-deviceapi.Po */,
-				D2905993185E27E0001E1788 /* bfgminer-driver-avalon.Po */,
-				D2905994185E27E0001E1788 /* bfgminer-driver-bfsb.Po */,
-				D2905995185E27E0001E1788 /* bfgminer-driver-bifury.Po */,
-				D2905996185E27E0001E1788 /* bfgminer-driver-bigpic.Po */,
-				D2905997185E27E0001E1788 /* bfgminer-driver-bitforce.Po */,
-				D2905998185E27E0001E1788 /* bfgminer-driver-bitfury.Po */,
-				D2905999185E27E0001E1788 /* bfgminer-driver-cairnsmore.Po */,
-				D290599A185E27E0001E1788 /* bfgminer-driver-cpu.Po */,
-				D290599B185E27E0001E1788 /* bfgminer-driver-erupter.Po */,
-				D290599C185E27E0001E1788 /* bfgminer-driver-getwork.Po */,
-				D290599D185E27E0001E1788 /* bfgminer-driver-hashbuster.Po */,
-				D290599E185E27E0001E1788 /* bfgminer-driver-hashbuster2.Po */,
-				D290599F185E27E0001E1788 /* bfgminer-driver-hashbusterusb.Po */,
-				D29059A0185E27E0001E1788 /* bfgminer-driver-icarus.Po */,
-				D29059A1185E27E0001E1788 /* bfgminer-driver-klondike.Po */,
-				D29059A2185E27E0001E1788 /* bfgminer-driver-knc.Po */,
-				D29059A3185E27E0001E1788 /* bfgminer-driver-littlefury.Po */,
-				D29059A4185E27E0001E1788 /* bfgminer-driver-metabank.Po */,
-				D29059A5185E27E0001E1788 /* bfgminer-driver-modminer.Po */,
-				D29059A6185E27E0001E1788 /* bfgminer-driver-nanofury.Po */,
-				D29059A7185E27E0001E1788 /* bfgminer-driver-opencl.Po */,
-				D29059A8185E27E0001E1788 /* bfgminer-driver-proxy.Po */,
-				D29059A9185E27E0001E1788 /* bfgminer-driver-stratum.Po */,
-				D29059AA185E27E0001E1788 /* bfgminer-driver-twinfury.Po */,
-				D29059AB185E27E0001E1788 /* bfgminer-driver-x6500.Po */,
-				D29059AC185E27E0001E1788 /* bfgminer-driver-ztex.Po */,
-				D29059AD185E27E0001E1788 /* bfgminer-dynclock.Po */,
-				D29059AE185E27E0001E1788 /* bfgminer-findnonce.Po */,
-				D29059AF185E27E0001E1788 /* bfgminer-ft232r.Po */,
-				D29059B0185E27E0001E1788 /* bfgminer-hexdump.Po */,
-				D29059B1185E27E0001E1788 /* bfgminer-httpsrv.Po */,
-				D29059B2185E27E0001E1788 /* bfgminer-jtag.Po */,
-				D29059B3185E27E0001E1788 /* bfgminer-libbitfury.Po */,
-				D29059B4185E27E0001E1788 /* bfgminer-libztex.Po */,
-				D29059B5185E27E0001E1788 /* bfgminer-logging.Po */,
-				D29059B6185E27E0001E1788 /* bfgminer-lowl-hid.Po */,
-				D29059B7185E27E0001E1788 /* bfgminer-lowl-usb.Po */,
-				D29059B8185E27E0001E1788 /* bfgminer-lowl-vcom.Po */,
-				D29059B9185E27E0001E1788 /* bfgminer-lowlevel.Po */,
-				D29059BA185E27E0001E1788 /* bfgminer-mcp2210.Po */,
-				D29059BB185E27E0001E1788 /* bfgminer-miner.Po */,
-				D29059BC185E27E0001E1788 /* bfgminer-ocl.Po */,
-				D29059BD185E27E0001E1788 /* bfgminer-scrypt.Po */,
-				D29059BE185E27E0001E1788 /* bfgminer-sha2.Po */,
-				D29059BF185E27E0001E1788 /* bfgminer-sha256_altivec_4way.Po */,
-				D29059C0185E27E0001E1788 /* bfgminer-sha256_cryptopp.Po */,
-				D29059C1185E27E0001E1788 /* bfgminer-sha256_generic.Po */,
-				D29059C2185E27E0001E1788 /* bfgminer-sha256_sse2_amd64.Po */,
-				D29059C3185E27E0001E1788 /* bfgminer-sha256_sse4_amd64.Po */,
-				D29059C4185E27E0001E1788 /* bfgminer-sha256_via.Po */,
-				D29059C5185E27E0001E1788 /* bfgminer-spidevc.Po */,
-				D29059C6185E27E0001E1788 /* bfgminer-tm_i2c.Po */,
-				D29059C7185E27E0001E1788 /* bfgminer-util.Po */,
-				D29059C8185E27E0001E1788 /* bitforce-firmware-flash.Po */,
-				D29059C9185E27E0001E1788 /* libsse2cpuminer_a-sha256_4way.Po */,
-				D29059CA185E27E0001E1788 /* libsse2cpuminer_a-sha256_sse2_i386.Po */,
-			);
-			path = .deps;
 			sourceTree = "<group>";
 		};
 		D29059CE185E27E0001E1788 /* ADL */ = {
@@ -1025,134 +721,6 @@
 				D2905A6F185E27E1001E1788 /* format */,
 			);
 			path = source;
-			sourceTree = "<group>";
-		};
-		D2905A70185E27E1001E1788 /* debug */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A71185E27E1001E1788 /* bin */,
-				D2905A75185E27E1001E1788 /* include */,
-				D2905A7A185E27E1001E1788 /* lib */,
-				D2905A83185E27E1001E1788 /* share */,
-			);
-			path = debug;
-			sourceTree = "<group>";
-		};
-		D2905A71185E27E1001E1788 /* bin */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A72185E27E1001E1788 /* bfgminer */,
-				D2905A73185E27E1001E1788 /* bfgminer-rpc */,
-				D2905A74185E27E1001E1788 /* bitforce-firmware-flash */,
-			);
-			path = bin;
-			sourceTree = "<group>";
-		};
-		D2905A75185E27E1001E1788 /* include */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A76185E27E1001E1788 /* libblkmaker-0.1 */,
-			);
-			path = include;
-			sourceTree = "<group>";
-		};
-		D2905A76185E27E1001E1788 /* libblkmaker-0.1 */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A77185E27E1001E1788 /* blkmaker.h */,
-				D2905A78185E27E1001E1788 /* blkmaker_jansson.h */,
-				D2905A79185E27E1001E1788 /* blktemplate.h */,
-			);
-			path = "libblkmaker-0.1";
-			sourceTree = "<group>";
-		};
-		D2905A7A185E27E1001E1788 /* lib */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A7B185E27E1001E1788 /* libblkmaker-0.1.0.dylib */,
-				D2905A7C185E27E1001E1788 /* libblkmaker-0.1.dylib */,
-				D2905A7D185E27E1001E1788 /* libblkmaker-0.1.la */,
-				D2905A7E185E27E1001E1788 /* libblkmaker_jansson-0.1.0.dylib */,
-				D2905A7F185E27E1001E1788 /* libblkmaker_jansson-0.1.dylib */,
-				D2905A80185E27E1001E1788 /* libblkmaker_jansson-0.1.la */,
-				D2905A81185E27E1001E1788 /* pkgconfig */,
-			);
-			path = lib;
-			sourceTree = "<group>";
-		};
-		D2905A81185E27E1001E1788 /* pkgconfig */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A82185E27E1001E1788 /* libblkmaker_jansson-0.1.pc */,
-			);
-			path = pkgconfig;
-			sourceTree = "<group>";
-		};
-		D2905A83185E27E1001E1788 /* share */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A84185E27E1001E1788 /* bfgminer */,
-				D2905A8B185E27E1001E1788 /* doc */,
-			);
-			path = share;
-			sourceTree = "<group>";
-		};
-		D2905A84185E27E1001E1788 /* bfgminer */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A85185E27E1001E1788 /* opencl */,
-			);
-			path = bfgminer;
-			sourceTree = "<group>";
-		};
-		D2905A85185E27E1001E1788 /* opencl */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A86185E27E1001E1788 /* diablo130302.cl */,
-				D2905A87185E27E1001E1788 /* diakgcn121016.cl */,
-				D2905A88185E27E1001E1788 /* phatk121016.cl */,
-				D2905A89185E27E1001E1788 /* poclbm130302.cl */,
-				D2905A8A185E27E1001E1788 /* scrypt130511.cl */,
-			);
-			path = opencl;
-			sourceTree = "<group>";
-		};
-		D2905A8B185E27E1001E1788 /* doc */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A8C185E27E1001E1788 /* bfgminer */,
-			);
-			path = doc;
-			sourceTree = "<group>";
-		};
-		D2905A8C185E27E1001E1788 /* bfgminer */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A8D185E27E1001E1788 /* AUTHORS */,
-				D2905A8E185E27E1001E1788 /* COPYING */,
-				D2905A8F185E27E1001E1788 /* example.conf */,
-				D2905A90185E27E1001E1788 /* HACKING */,
-				D2905A91185E27E1001E1788 /* NEWS */,
-				D2905A92185E27E1001E1788 /* README */,
-				D2905A93185E27E1001E1788 /* README.ASIC */,
-				D2905A94185E27E1001E1788 /* README.FPGA */,
-				D2905A95185E27E1001E1788 /* README.GPU */,
-				D2905A96185E27E1001E1788 /* README.RPC */,
-				D2905A97185E27E1001E1788 /* README.scrypt */,
-				D2905A98185E27E1001E1788 /* rpc-examples */,
-			);
-			path = bfgminer;
-			sourceTree = "<group>";
-		};
-		D2905A98185E27E1001E1788 /* rpc-examples */ = {
-			isa = PBXGroup;
-			children = (
-				D2905A99185E27E1001E1788 /* api-example.c */,
-				D2905A9A185E27E1001E1788 /* api-example.php */,
-				D2905A9B185E27E1001E1788 /* api-example.py */,
-				D2905A9C185E27E1001E1788 /* miner.php */,
-			);
-			path = "rpc-examples";
 			sourceTree = "<group>";
 		};
 		D2905AD6185E27E2001E1788 /* lib */ = {
@@ -1345,142 +913,6 @@
 				D2905B76185E27E2001E1788 /* Makefile */,
 			);
 			path = bfgminer;
-			sourceTree = "<group>";
-		};
-		D2905B78185E27E2001E1788 /* output */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B79185E27E2001E1788 /* debug */,
-			);
-			path = output;
-			sourceTree = "<group>";
-		};
-		D2905B79185E27E2001E1788 /* debug */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B7A185E27E2001E1788 /* bin */,
-				D2905B7E185E27E2001E1788 /* include */,
-				D2905B83185E27E2001E1788 /* lib */,
-				D2905B8C185E27E2001E1788 /* share */,
-			);
-			path = debug;
-			sourceTree = "<group>";
-		};
-		D2905B7A185E27E2001E1788 /* bin */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B7B185E27E2001E1788 /* bfgminer */,
-				D2905B7C185E27E2001E1788 /* bfgminer-rpc */,
-				D2905B7D185E27E2001E1788 /* bitforce-firmware-flash */,
-			);
-			path = bin;
-			sourceTree = "<group>";
-		};
-		D2905B7E185E27E2001E1788 /* include */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B7F185E27E2001E1788 /* libblkmaker-0.1 */,
-			);
-			path = include;
-			sourceTree = "<group>";
-		};
-		D2905B7F185E27E2001E1788 /* libblkmaker-0.1 */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B80185E27E2001E1788 /* blkmaker.h */,
-				D2905B81185E27E2001E1788 /* blkmaker_jansson.h */,
-				D2905B82185E27E2001E1788 /* blktemplate.h */,
-			);
-			path = "libblkmaker-0.1";
-			sourceTree = "<group>";
-		};
-		D2905B83185E27E2001E1788 /* lib */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B84185E27E2001E1788 /* libblkmaker-0.1.0.dylib */,
-				D2905B85185E27E2001E1788 /* libblkmaker-0.1.dylib */,
-				D2905B86185E27E2001E1788 /* libblkmaker-0.1.la */,
-				D2905B87185E27E2001E1788 /* libblkmaker_jansson-0.1.0.dylib */,
-				D2905B88185E27E2001E1788 /* libblkmaker_jansson-0.1.dylib */,
-				D2905B89185E27E2001E1788 /* libblkmaker_jansson-0.1.la */,
-				D2905B8A185E27E2001E1788 /* pkgconfig */,
-			);
-			path = lib;
-			sourceTree = "<group>";
-		};
-		D2905B8A185E27E2001E1788 /* pkgconfig */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B8B185E27E2001E1788 /* libblkmaker_jansson-0.1.pc */,
-			);
-			path = pkgconfig;
-			sourceTree = "<group>";
-		};
-		D2905B8C185E27E2001E1788 /* share */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B8D185E27E2001E1788 /* bfgminer */,
-				D2905B94185E27E2001E1788 /* doc */,
-			);
-			path = share;
-			sourceTree = "<group>";
-		};
-		D2905B8D185E27E2001E1788 /* bfgminer */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B8E185E27E2001E1788 /* opencl */,
-			);
-			path = bfgminer;
-			sourceTree = "<group>";
-		};
-		D2905B8E185E27E2001E1788 /* opencl */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B8F185E27E2001E1788 /* diablo130302.cl */,
-				D2905B90185E27E2001E1788 /* diakgcn121016.cl */,
-				D2905B91185E27E2001E1788 /* phatk121016.cl */,
-				D2905B92185E27E2001E1788 /* poclbm130302.cl */,
-				D2905B93185E27E2001E1788 /* scrypt130511.cl */,
-			);
-			path = opencl;
-			sourceTree = "<group>";
-		};
-		D2905B94185E27E2001E1788 /* doc */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B95185E27E2001E1788 /* bfgminer */,
-			);
-			path = doc;
-			sourceTree = "<group>";
-		};
-		D2905B95185E27E2001E1788 /* bfgminer */ = {
-			isa = PBXGroup;
-			children = (
-				D2905B96185E27E2001E1788 /* AUTHORS */,
-				D2905B97185E27E2001E1788 /* COPYING */,
-				D2905B98185E27E2001E1788 /* example.conf */,
-				D2905B99185E27E2001E1788 /* HACKING */,
-				D2905B9A185E27E2001E1788 /* NEWS */,
-				D2905B9B185E27E2001E1788 /* README */,
-				D2905B9C185E27E2001E1788 /* README.ASIC */,
-				D2905B9D185E27E2001E1788 /* README.FPGA */,
-				D2905B9E185E27E2001E1788 /* README.GPU */,
-				D2905B9F185E27E2001E1788 /* README.RPC */,
-				D2905BA0185E27E2001E1788 /* README.scrypt */,
-				D2905BA1185E27E2001E1788 /* rpc-examples */,
-			);
-			path = bfgminer;
-			sourceTree = "<group>";
-		};
-		D2905BA1185E27E2001E1788 /* rpc-examples */ = {
-			isa = PBXGroup;
-			children = (
-				D2905BA2185E27E2001E1788 /* api-example.c */,
-				D2905BA3185E27E2001E1788 /* api-example.php */,
-				D2905BA4185E27E2001E1788 /* api-example.py */,
-				D2905BA5185E27E2001E1788 /* miner.php */,
-			);
-			path = "rpc-examples";
 			sourceTree = "<group>";
 		};
 		D2905BA6185E27E2001E1788 /* packaging */ = {
