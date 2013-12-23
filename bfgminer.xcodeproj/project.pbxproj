@@ -109,11 +109,9 @@
 		D240ED2C1867DEDE0081ACCC /* tm_i2c.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = tm_i2c.c; path = source/tm_i2c.c; sourceTree = SOURCE_ROOT; };
 		D240ED2D1867DEDE0081ACCC /* util.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = util.c; path = source/util.c; sourceTree = SOURCE_ROOT; };
 		D240ED2E1867DEDE0081ACCC /* 70-bfgminer.rules.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = "70-bfgminer.rules.in"; path = "source/70-bfgminer.rules.in"; sourceTree = SOURCE_ROOT; };
-		D240ED2F1867DEDE0081ACCC /* aclocal.m4 */ = {isa = PBXFileReference; lastKnownFileType = text; name = aclocal.m4; path = source/aclocal.m4; sourceTree = SOURCE_ROOT; };
 		D240ED311867DEDE0081ACCC /* AUTHORS */ = {isa = PBXFileReference; lastKnownFileType = text; name = AUTHORS; path = source/AUTHORS; sourceTree = SOURCE_ROOT; };
 		D240ED5C1867DEDE0081ACCC /* ChangeLog */ = {isa = PBXFileReference; lastKnownFileType = text; name = ChangeLog; path = source/ChangeLog; sourceTree = SOURCE_ROOT; };
 		D240ED5D1867DEDE0081ACCC /* config.h.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = config.h.in; path = source/config.h.in; sourceTree = SOURCE_ROOT; };
-		D240ED5E1867DEDE0081ACCC /* config.h.in~ */ = {isa = PBXFileReference; lastKnownFileType = text; name = "config.h.in~"; path = "source/config.h.in~"; sourceTree = SOURCE_ROOT; };
 		D240ED5F1867DEDE0081ACCC /* configure.ac */ = {isa = PBXFileReference; lastKnownFileType = text; name = configure.ac; path = source/configure.ac; sourceTree = SOURCE_ROOT; };
 		D240ED601867DEDE0081ACCC /* COPYING */ = {isa = PBXFileReference; lastKnownFileType = text; name = COPYING; path = source/COPYING; sourceTree = SOURCE_ROOT; };
 		D240ED611867DEDE0081ACCC /* example.conf */ = {isa = PBXFileReference; lastKnownFileType = text; name = example.conf; path = source/example.conf; sourceTree = SOURCE_ROOT; };
@@ -207,16 +205,9 @@
 		D240EDC71867DEDE0081ACCC /* series */ = {isa = PBXFileReference; lastKnownFileType = text; path = series; sourceTree = "<group>"; };
 		D240EDC81867DEDE0081ACCC /* rules */ = {isa = PBXFileReference; lastKnownFileType = text; path = rules; sourceTree = "<group>"; };
 		D240EDCA1867DEDE0081ACCC /* format */ = {isa = PBXFileReference; lastKnownFileType = text; path = format; sourceTree = "<group>"; };
-		D240EDCD1867DEDE0081ACCC /* dummy.Po */ = {isa = PBXFileReference; lastKnownFileType = text; path = dummy.Po; sourceTree = "<group>"; };
-		D240EDCE1867DEDE0081ACCC /* memchr.Po */ = {isa = PBXFileReference; lastKnownFileType = text; path = memchr.Po; sourceTree = "<group>"; };
-		D240EDCF1867DEDE0081ACCC /* memmem.Po */ = {isa = PBXFileReference; lastKnownFileType = text; path = memmem.Po; sourceTree = "<group>"; };
-		D240EDD01867DEDE0081ACCC /* sigaction.Po */ = {isa = PBXFileReference; lastKnownFileType = text; path = sigaction.Po; sourceTree = "<group>"; };
-		D240EDD11867DEDE0081ACCC /* sigprocmask.Po */ = {isa = PBXFileReference; lastKnownFileType = text; path = sigprocmask.Po; sourceTree = "<group>"; };
-		D240EDD21867DEDE0081ACCC /* strtok_r.Po */ = {isa = PBXFileReference; lastKnownFileType = text; path = strtok_r.Po; sourceTree = "<group>"; };
 		D240EDD31867DEDE0081ACCC /* arg-nonnull.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "arg-nonnull.h"; sourceTree = "<group>"; };
 		D240EDD41867DEDE0081ACCC /* c++defs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "c++defs.h"; sourceTree = "<group>"; };
 		D240EDD51867DEDE0081ACCC /* dummy.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = dummy.c; sourceTree = "<group>"; };
-		D240EDD61867DEDE0081ACCC /* dummy.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = dummy.o; sourceTree = "<group>"; };
 		D240EDD71867DEDE0081ACCC /* libgnu.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libgnu.a; sourceTree = "<group>"; };
 		D240EDD81867DEDE0081ACCC /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		D240EDD91867DEDE0081ACCC /* Makefile.am */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.am; sourceTree = "<group>"; };
@@ -224,7 +215,6 @@
 		D240EDDB1867DEDE0081ACCC /* memchr.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = memchr.c; sourceTree = "<group>"; };
 		D240EDDC1867DEDE0081ACCC /* memchr.valgrind */ = {isa = PBXFileReference; lastKnownFileType = text; path = memchr.valgrind; sourceTree = "<group>"; };
 		D240EDDD1867DEDE0081ACCC /* memmem.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = memmem.c; sourceTree = "<group>"; };
-		D240EDDE1867DEDE0081ACCC /* memmem.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = memmem.o; sourceTree = "<group>"; };
 		D240EDDF1867DEDE0081ACCC /* sig-handler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "sig-handler.h"; sourceTree = "<group>"; };
 		D240EDE01867DEDE0081ACCC /* sigaction.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = sigaction.c; sourceTree = "<group>"; };
 		D240EDE11867DEDE0081ACCC /* signal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = signal.h; sourceTree = "<group>"; };
@@ -571,11 +561,9 @@
 		D240EDCB1867DEDE0081ACCC /* lib */ = {
 			isa = PBXGroup;
 			children = (
-				D240EDCC1867DEDE0081ACCC /* .deps */,
 				D240EDD31867DEDE0081ACCC /* arg-nonnull.h */,
 				D240EDD41867DEDE0081ACCC /* c++defs.h */,
 				D240EDD51867DEDE0081ACCC /* dummy.c */,
-				D240EDD61867DEDE0081ACCC /* dummy.o */,
 				D240EDD71867DEDE0081ACCC /* libgnu.a */,
 				D240EDD81867DEDE0081ACCC /* Makefile */,
 				D240EDD91867DEDE0081ACCC /* Makefile.am */,
@@ -583,7 +571,6 @@
 				D240EDDB1867DEDE0081ACCC /* memchr.c */,
 				D240EDDC1867DEDE0081ACCC /* memchr.valgrind */,
 				D240EDDD1867DEDE0081ACCC /* memmem.c */,
-				D240EDDE1867DEDE0081ACCC /* memmem.o */,
 				D240EDDF1867DEDE0081ACCC /* sig-handler.h */,
 				D240EDE01867DEDE0081ACCC /* sigaction.c */,
 				D240EDE11867DEDE0081ACCC /* signal.h */,
@@ -601,19 +588,6 @@
 			name = lib;
 			path = source/lib;
 			sourceTree = SOURCE_ROOT;
-		};
-		D240EDCC1867DEDE0081ACCC /* .deps */ = {
-			isa = PBXGroup;
-			children = (
-				D240EDCD1867DEDE0081ACCC /* dummy.Po */,
-				D240EDCE1867DEDE0081ACCC /* memchr.Po */,
-				D240EDCF1867DEDE0081ACCC /* memmem.Po */,
-				D240EDD01867DEDE0081ACCC /* sigaction.Po */,
-				D240EDD11867DEDE0081ACCC /* sigprocmask.Po */,
-				D240EDD21867DEDE0081ACCC /* strtok_r.Po */,
-			);
-			path = .deps;
-			sourceTree = "<group>";
 		};
 		D240EDEC1867DEDE0081ACCC /* libblkmaker */ = {
 			isa = PBXGroup;
@@ -829,7 +803,6 @@
 				D240EE5D1867DEDF0081ACCC /* x86_64 */,
 				D240EE341867DEDF0081ACCC /* m4 */,
 				D240ED2E1867DEDE0081ACCC /* 70-bfgminer.rules.in */,
-				D240ED2F1867DEDE0081ACCC /* aclocal.m4 */,
 				D240ECF21867DEDE0081ACCC /* adl.c */,
 				D240ECCA1867DEDE0081ACCC /* adl.h */,
 				D240ECC91867DEDE0081ACCC /* adl_functions.h */,
@@ -855,7 +828,6 @@
 				D240EE771867DEDF0081ACCC /* config.guess */,
 				D240ECD01867DEDE0081ACCC /* config.h */,
 				D240ED5D1867DEDE0081ACCC /* config.h.in */,
-				D240ED5E1867DEDE0081ACCC /* config.h.in~ */,
 				D240EE781867DEDF0081ACCC /* config.status */,
 				D240EE711867DEDF0081ACCC /* config.sub */,
 				D240EE791867DEDF0081ACCC /* configure */,
