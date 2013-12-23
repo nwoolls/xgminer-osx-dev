@@ -1,0 +1,3 @@
+[submodule "bfgminer"]
+	path = source
+	url = https://github.com/luke-jr/bfgminer.git
