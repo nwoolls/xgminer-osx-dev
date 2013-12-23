@@ -351,9 +351,6 @@
 		D240EE701867DEDF0081ACCC /* autogen.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = autogen.sh; path = source/autogen.sh; sourceTree = SOURCE_ROOT; };
 		D240EE711867DEDF0081ACCC /* config.sub */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = config.sub; path = source/config.sub; sourceTree = SOURCE_ROOT; };
 		D240EE721867DEDF0081ACCC /* avalonhost-raminst */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = "avalonhost-raminst"; path = "source/avalonhost-raminst"; sourceTree = SOURCE_ROOT; };
-		D240EE731867DEDF0081ACCC /* bfgminer */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; name = bfgminer; path = source/bfgminer; sourceTree = SOURCE_ROOT; };
-		D240EE741867DEDF0081ACCC /* bfgminer-rpc */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; name = "bfgminer-rpc"; path = "source/bfgminer-rpc"; sourceTree = SOURCE_ROOT; };
-		D240EE751867DEDF0081ACCC /* bitforce-firmware-flash */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; name = "bitforce-firmware-flash"; path = "source/bitforce-firmware-flash"; sourceTree = SOURCE_ROOT; };
 		D240EE761867DEDF0081ACCC /* compile */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = compile; path = source/compile; sourceTree = SOURCE_ROOT; };
 		D240EE771867DEDF0081ACCC /* config.guess */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = config.guess; path = source/config.guess; sourceTree = SOURCE_ROOT; };
 		D240EE781867DEDF0081ACCC /* config.status */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = config.status; path = source/config.status; sourceTree = SOURCE_ROOT; };
@@ -815,11 +812,8 @@
 				D240EE701867DEDF0081ACCC /* autogen.sh */,
 				D240EE721867DEDF0081ACCC /* avalonhost-raminst */,
 				D240ECCC1867DEDE0081ACCC /* bench_block.h */,
-				D240EE731867DEDF0081ACCC /* bfgminer */,
-				D240EE741867DEDF0081ACCC /* bfgminer-rpc */,
 				D240ECF51867DEDE0081ACCC /* binloader.c */,
 				D240ECCD1867DEDE0081ACCC /* binloader.h */,
-				D240EE751867DEDF0081ACCC /* bitforce-firmware-flash */,
 				D240ECF61867DEDE0081ACCC /* bitforce-firmware-flash.c */,
 				D240ECCE1867DEDE0081ACCC /* c++defs.h */,
 				D240ED5C1867DEDE0081ACCC /* ChangeLog */,
