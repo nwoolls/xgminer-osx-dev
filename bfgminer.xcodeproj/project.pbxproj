@@ -985,7 +985,7 @@
 			buildPhases = (
 			);
 			buildToolPath = /usr/bin/make;
-			buildWorkingDirectory = "/Users/nwoolls/Dropbox/GNU-Projects/bfgminer/source";
+			buildWorkingDirectory = "$(PROJECT_DIR)/source";
 			dependencies = (
 			);
 			name = bfgminer;
